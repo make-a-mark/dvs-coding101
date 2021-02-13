@@ -4,6 +4,7 @@ This week we learn about data types!
 ## Resources
 ### Slides
 [Week 2 Slides](https://docs.google.com/presentation/d/1vgyKz77S_SoMAoU5mOfsHrgZIjwjLefqaPj-4OikGgw/edit?usp=sharing)
+
 [Lecture Recording](https://Youtube.com)
 
 ### Helpful Links
