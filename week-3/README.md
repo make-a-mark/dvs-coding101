@@ -1,4 +1,4 @@
-# DVS-Coding101 Seminar: Week 1
+# DVS-Coding101 Seminar: Week 3
 - [Resources](#resources)
 - [Agenda](#agenda)
 
