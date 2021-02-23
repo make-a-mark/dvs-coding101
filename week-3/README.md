@@ -4,7 +4,7 @@
 ### Slides
 [Slides](https://docs.google.com/presentation/d/1HSv_UufXvqS2ZWzwqf1J0zCEcqS-Z53FBkzup8iON44/edit?usp=sharing)
 
-[Lecture Link](https://youtu.be/CtOdyszZz58)
+[Lecture Recording](https://youtu.be/CtOdyszZz58)
 
 ## Agenda
 [Slide 2 Python Tutor Standard Arithmetic - Integers & Floats Link](http://pythontutor.com/visualize.html#code=x%20%3D%202%0Ax%20%3D%20x%20%2B%20x%0Aprint%28x%29%0Ax%20-%3D%201%0Aprint%28x%29%0Ax%20%3D%20x%20*%202%0Aprint%28x%29%0Ax%20%3D%206%20/%203%0Aprint%28x%29%0Ax%20%3D%209%20//%205%20%0Aprint%28x%29%0Ax%20%3D%202%20**%202%0Aprint%28x%29%0Ax%20%3D%2010%20%25%203%0Aprint%28x%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
