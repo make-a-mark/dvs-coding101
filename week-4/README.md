@@ -4,7 +4,7 @@
 ### Slides
 [Slides](https://docs.google.com/presentation/d/1om2byVnUn8q4XicJ7jWs7orrZL95LpYN2kd56Uz76Do/edit?usp=sharing)
 
-[Lecture Link](https://Youtube.com)
+[Lecture Link](https://youtu.be/LJ4yhjZex6Q)
 ## Agenda
 [Slide 2 Python Tutor Week 2 : Data Types Link](http://pythontutor.com/visualize.html#code=x%20%3D%205%0Aprint%28%22x%20is%20data%20type%22%20%2B%20str%28type%28x%29%29%29%0A%0A%0Anew_x%20%3D%20str%28x%29%0Aprint%28%22new_x%20is%20data%20type%22%20%2B%20str%28type%28new_x%29%29%29%0A%0A%0Alst%20%3D%20%5B1,%202,%203%5D%0Aindex_one%20%3D%20lst%5B1%5D%0A&cumulative=true&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
