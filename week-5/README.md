@@ -1,20 +1,19 @@
-# DVS-Coding101 Seminar: Week 4
+# DVS-Coding101 Seminar: Week 5
 
 ## Resources
 ### Slides
-[Slides](https://docs.google.com/presentation/d/1om2byVnUn8q4XicJ7jWs7orrZL95LpYN2kd56Uz76Do/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1FQtZBRKexz9jhib3W32e24fhqwzrwMLsLLgj4CVQED4/edit?usp=sharing)
 
 [Lecture Link](https://youtu.be/LJ4yhjZex6Q)
 ## Agenda
-[Slide 2 Python Tutor Week 2 : Data Types Link](http://pythontutor.com/visualize.html#code=x%20%3D%205%0Aprint%28%22x%20is%20data%20type%22%20%2B%20str%28type%28x%29%29%29%0A%0A%0Anew_x%20%3D%20str%28x%29%0Aprint%28%22new_x%20is%20data%20type%22%20%2B%20str%28type%28new_x%29%29%29%0A%0A%0Alst%20%3D%20%5B1,%202,%203%5D%0Aindex_one%20%3D%20lst%5B1%5D%0A&cumulative=true&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
+[Slide Nested If Statements / Conditionals Python Tutor Link](http://pythontutor.com/visualize.html#code=%23%20Does%20line%20execute%3F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yes%20%20%20%20No%0A%23%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20---%20%20%20%20--%0A%0Aif%20'foo'%20in%20%5B'foo',%20'bar',%20'baz'%5D%3A%20%20%20%20%20%20%20%20%23%20%20x%0A%20%20%20%20print%28'Outer%20condition%20is%20true'%29%20%20%20%20%20%20%23%20%20x%0A%0A%20%20%20%20if%2010%20%3E%2020%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20%20x%0A%20%20%20%20%20%20%20%20print%28'Inner%20condition%201'%29%20%20%20%20%20%20%20%20%23%20%20%20%20%20%20%20%20%20x%0A%0A%20%20%20%20print%28'Between%20inner%20conditions'%29%20%20%20%20%20%23%20%20x%0A%0A%20%20%20%20if%2010%20%3C%2020%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20%20x%0A%20%20%20%20%20%20%20%20print%28'Inner%20condition%202'%29%20%20%20%20%20%20%20%20%23%20%20x%0A%0A%20%20%20%20if%205%20%3E%204%20and%202%20%3C%203%3A%0A%20%20%20%20%20%20%20%20print%28'Inner%20condition%203'%29%20%20%20%20%20%20%20%20%23%20%20x%0A%0A%20%20%20%20print%28'End%20of%20outer%20condition'%29%20%20%20%20%20%20%20%23%20%20x%0Aprint%28'After%20outer%20condition'%29%20%20%20%20%20%20%20%20%20%20%20%20%23%20%20x&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
-[Slide 3 Python Tutor Week 3: Data Manipulation](http://pythontutor.com/visualize.html#code=%23Some%20operators%20work%20with%20other%20data%20types%20%0Amy_name%20%3D%20%E2%80%9CMichael%E2%80%9D%0Aintro%20%3D%20%22Hello%20my%20name%20is%20%22%20%2B%20my_name%0A%0A%0A%23Some%20don't%0Atypo%20%3D%20%22Michael%3E%22%0Acorrected%20%3D%20wrong_name%20-%20%22w%22%0A&cumulative=true&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
 
 ## Helpful Links
-[Python Lists](https://www.w3schools.com/python/python_lists.asp)
+[Python Conditionals](https://www.w3schools.com/python/python_conditions.asp)
 
-[More Python Lists](https://www.pythonforbeginners.com/basics/python-list-manipulation)
+[More Python Conditionals](https://www.learnbyexample.org/python-if-else-elif-statement/)
 
-[Python String](https://www.pythonforbeginners.com/basics/string-manipulation-in-python)
+[Even More Python Conditionals](https://realpython.com/python-conditional-statements/)
 
-[More Python String](https://www.w3schools.com/python/python_strings.asp#:~:text=Strings%20are%20Arrays,access%20elements%20of%20the%20string.)
+[Importing Libraries](https://realpython.com/python-import/)
