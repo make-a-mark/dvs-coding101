@@ -23,3 +23,4 @@ Sufyan Suliman
 | 3 	            | Arithmetic + Data Type Manipulation    | Edwin	            |
 | 4 	            | Advanced Data Type Maniputlation       | Michael	          |
 | 5 	            | Conditionals                           | Mark	              |
+| 6 	            | Loops                                  | Mark	              |
