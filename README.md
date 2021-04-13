@@ -24,3 +24,7 @@ Sufyan Suliman
 | 4 	            | Advanced Data Type Maniputlation       | Michael	          |
 | 5 	            | Conditionals                           | Mark	              |
 | 6 	            | Loops                                  | Mark	              |
+| 7 	            | Functions                              | Edwin	            |
+| 8 	            | Review Pt1: More Functions             | Sufyan	            |
+| 9 	            | Review Pt2: Grocery Cart Mini-Project  | All Instructors    |
+| 10 	            | Classes                                | Michael	          |
