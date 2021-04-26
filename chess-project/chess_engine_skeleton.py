@@ -8,6 +8,16 @@ class GameState:
     Name of this property/attribute/member/variable should be "board"
     Hint: how do you reference a class' variable? maybe use self!
     '''
+    
+  def print_board(self):
+    for row in range(len(self.board)):
+      for column in range(len(self.board)):
+        piece = self.board[row][column]
+        if (piece == "--"):
+          print ("--", end=' ')
+        else:
+          print(piece.print_name(), end=' ')
+      print("")
 
     
 '''
