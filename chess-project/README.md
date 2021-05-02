@@ -8,3 +8,9 @@ In addition to the Piece objects, we will also have a 2D array (ask if you need 
 
 ### Class Construction
 To start, we will have a gamestate Class, a piece class, and a class for each different type of piece. Our gamestate class will be responsible for creating the board itself and placing each piece object in it’s correct position at the start of the game, understanding whose turn it is to move, and will effectively move the pieces around. Our piece class will act as a parent to every specific piece on the board - consider what every new instance of a piece needs to “know” about itself. Since every chess piece moves around differently, every Child class of Piece will have its own method to incorporate their movement pattern.
+
+### Week 2 Tasks Documentation: 
+Move function: The move function will actually take each piece and move it to another square on the board. To do this, we will simply be removing the piece off its initial square and placing it on the new square that it would like to move to. At this stage in the process, don’t worry about if this is a valid move for the piece or not, we will get to that next week. Just ensure that a piece is able to move from one spot to another and the board updates appropriately. There are labels on the board that translate to the squares just like a standard chess board (see the diagram below). 
+![Diagram](1200px-SCD_algebraic_notation.png)
+These labels will be inputted into the program to allow movement. For example, to move the very left black pawn forward two squares, you would input a7 → a5. 
+
